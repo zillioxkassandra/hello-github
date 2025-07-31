@@ -1,3 +1,4 @@
 # hello-github
 Getting started with Github.
-This is my first Github repository.
+
+This README file should be associated with practice-branch.
