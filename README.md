@@ -1,4 +1,4 @@
 # hello-github
 Getting started with Github.
 
-This README file should be associated with practice-branch.
+This README file is now assiciated withe the main branch.
